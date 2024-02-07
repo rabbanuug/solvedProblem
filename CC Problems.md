@@ -2,7 +2,7 @@
 
 01. Basic Programming || https://www.codechef.com/practice/1to2stars
 
-Richie Rich
+- Richie Rich
 Vaccine Dates
 Hoop Jump
 The Two Dishes
