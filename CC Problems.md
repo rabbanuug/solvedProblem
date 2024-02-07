@@ -20,7 +20,7 @@
 - Tom And Jerry 1
 
 02. Arrays----
--[] Chef in Vaccination Queue : https://www.codechef.com/START13C/problems/VACCINQ
+-[ ] Chef in Vaccination Queue : https://www.codechef.com/START13C/problems/VACCINQ
 - Chef and IPC Certificates:https://www.codechef.com/COOK124B/problems/IPCCERT
 - Make them equal:https://www.codechef.com/submit/MAKEQUAL
 - A Subtask Problem:https://www.codechef.com/START15C/problems/SUBTASK
