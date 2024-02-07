@@ -1,6 +1,7 @@
 --------Level up from 1* to 2*------- || Codechef Problems List
 
 01. Basic Programming || https://www.codechef.com/practice/1to2stars
+
 Richie Rich
 Vaccine Dates
 Hoop Jump
@@ -18,7 +19,7 @@ Maximum Length Even Subarray
 Distinct Pair Sums
 Tom And Jerry 1
 
-----Arrays----
+02. Arrays----
 Chef in Vaccination Queue : https://www.codechef.com/START13C/problems/VACCINQ
 Chef and IPC Certificates:https://www.codechef.com/COOK124B/problems/IPCCERT
 Make them equal:https://www.codechef.com/submit/MAKEQUAL
@@ -32,7 +33,7 @@ Nobel Prize : https://www.codechef.com/START2B/problems/NOBEL/
 College Life 2 : https://www.codechef.com/START1C/problems/COLGLF2
 Cops and the Thief Devu : 
 
-----Strings----
+03. Strings----
 
 Pawri Meme https://www.codechef.com/COOK127C/problems/PAWRI
 Chef and the Wildcard Matching https://www.codechef.com/practice/course/strings-c/PCST01/problems/TWOSTR
@@ -66,7 +67,7 @@ Make all equal using Pairs
 Devu and friendship testing
 Lazy Salesman
 ICPC Balloons
-Chocolate Monger
+Chocolate Monger        
 Simple Statistics
 Gift Shop and Coupon
 Watson asks Does Permutation Exist
