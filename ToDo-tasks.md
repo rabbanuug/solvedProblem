@@ -25,20 +25,20 @@ Bounds on number of primes till N
 Euler’s totient function
 Practice Problems :
 
-http://www.spoj.com/problems/NDIV/
-http://codeforces.com/problemset/problem/431/B
-http://www.spoj.com/problems/GAMES/
-http://www.spoj.com/problems/GCJ101BB/
-http://www.spoj.com/problems/GCJ1C09A/
-http://www.spoj.com/problems/MAIN72/
-http://www.spoj.com/problems/WINDVANE/
-http://www.spoj.com/problems/NDIV/
-http://www.spoj.com/problems/PTIME/
-http://www.spoj.com/problems/NDIVPHI/
-http://www.spoj.com/problems/NOSQ/
-http://www.spoj.com/problems/AFS/
-http://www.codechef.com/MAY13/problems/WITMATH/
-http://www.spoj.com/problems/CUBEFR/
+- http://www.spoj.com/problems/NDIV/
+- http://codeforces.com/problemset/problem/431/B
+- http://www.spoj.com/problems/GAMES/
+- http://www.spoj.com/problems/GCJ101BB/
+- http://www.spoj.com/problems/GCJ1C09A/
+- http://www.spoj.com/problems/MAIN72/
+- http://www.spoj.com/problems/WINDVANE/
+- http://www.spoj.com/problems/NDIV/
+- http://www.spoj.com/problems/PTIME/
+- http://www.spoj.com/problems/NDIVPHI/
+- http://www.spoj.com/problems/NOSQ/
+- http://www.spoj.com/problems/AFS/
+- http://www.codechef.com/MAY13/problems/WITMATH/
+- http://www.spoj.com/problems/CUBEFR/
 Try as many as you can.
 
 Other things that you can read meanwhile
@@ -54,47 +54,46 @@ Try to do + - * operations on large numbers(<1000 digits) using char array (for 
 Number of factors and sum of factors in sqrt(n) time ,Number of primes till N
 Go through these tutorials (The listed problems might be tough but do read the tutorial)
 
-http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=primalityTesting
+- http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=primalityTesting
+- http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=combinatorics
+- http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=math_for_topcoders
+- http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=primeNumbers
 
-http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=combinatorics
+### Basic Number Theory  
 
-http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=math_for_topcoders
-
-http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=primeNumbers
-
-Basic Number Theory  
-
-Modulo operations and Inverse modulo
-How to compute a ^ b % p in O(log b), where p is prime
-Find Nth fibonacci number modulo p [Read Matrix exponentiation]
-n! % p  ( what if we have lots of test cases and n<10^6 and P is fixed)
-ETF ( calculation / calculation using sieve / properties ) [[ read Euler's_totient_function]]
-Euler theorem , Fermat’s little theorem , Wilson theorem[[ READ ]]
-nCr % p (inverse modulo) ( read about extended euclid algorithm)
-(p-1)! % p  for prime p (read wilson’s theorem), Use of fermat theorem in Miller-Rabin ( Probabilistic ) ( miller-rabin.appspot.com )
-64 Choose 32 < 10^19 we can precompute till herein a 2 dimensional array [Learn use of the recursive relation : (n+1)Cr = nCr + nC(r-1)]
-Number of ways to traverse in 2D matrix[Catalan Number] ( what if some places are blocked ? Hint : DP)
-a^b % c . Given Hcf(a,c) = 1 .And  what if Hcf(a,c) ! = 1.  [[ READ Chinese Remainder Theorem, not used much in competition]]
-Matrix Exponentiation
-solving linear recurrence using matrix exponentiation(like fibonacci)
+- Modulo operations and Inverse modulo
+- How to compute a ^ b % p in O(log b), where p is prime
+- Find Nth fibonacci number modulo p [Read Matrix exponentiation]
+- n! % p  ( what if we have lots of test cases and n<10^6 and P is fixed)
+- ETF ( calculation / calculation using sieve / properties ) [[ read Euler's_totient_function]]
+- Euler theorem , Fermat’s little theorem , Wilson theorem[[ READ ]]
+- nCr % p (inverse modulo) ( read about extended euclid algorithm)
+- (p-1)! % p  for prime p (read wilson’s theorem), Use of fermat theorem in Miller-Rabin ( Probabilistic ) ( miller-rabin.appspot.com )
+- 64 Choose 32 < 10^19 we can precompute till herein a 2 dimensional array [Learn use of the recursive relation : (n+1)Cr = nCr + nC(r-1)]
+- Number of ways to traverse in 2D matrix[Catalan Number] ( what if some places are blocked ? Hint : DP)
+- a^b % c . Given Hcf(a,c) = 1 .And  what if Hcf(a,c) ! = 1.  [[ READ Chinese Remainder Theorem, not used much in competition]]
+- Matrix Exponentiation
+- solving linear recurrence using matrix exponentiation(like fibonacci)
 
 Practice problems:
 
-http://www.spoj.com/problems/DCEPC11B
-http://www.codechef.com/MAY13/problems/FTRIP/
-http://www.spoj.com/problems/FIBOSUM/
-http://www.spoj.com/problems/POWPOW/
-http://www.spoj.com/problems/POWPOW2 [[ CRT ]]
-Power of BITS
+- http://www.spoj.com/problems/DCEPC11B
+- http://www.codechef.com/MAY13/problems/FTRIP/
+- http://www.spoj.com/problems/FIBOSUM/
+- http://www.spoj.com/problems/POWPOW/
+- http://www.spoj.com/problems/POWPOW2 [[ CRT ]]
 
-Numbers are stored as binary bits in the memory so bits manipulation are alway faster.
-Bitwise or operator    : |
-Bitwise and operator : &
-Bitwise xor operator  : ^
-Bitwise left shift         : <<
-Bitwise right shift      : >>
-Memset and its uses using function : sizeof()
-Bitmask and use of Bitmask in Dynamic Programming [[subset DP]]
+### Power of BITS
+
+- Numbers are stored as binary bits in the memory so bits manipulation are alway faster.
+- Bitwise or operator    : |
+- Bitwise and operator : &
+- Bitwise xor operator  : ^
+- Bitwise left shift         : <<
+- Bitwise right shift      : >>
+- Memset and its uses using function : sizeof()
+- Bitmask and use of Bitmask in Dynamic Programming [[subset DP]]
+
 Some cool Tricks
 
 n = n * 2 :: n = n << 1
@@ -107,9 +106,9 @@ checking if xth bit of n is set :: checking if  n&(1<<x) is non zero
 Problem : You are given N numbers and a numbers S. Check if there exist some subset of the given numbers which sums equal to S .What if you are asked to compute the number of such subsets ?
 
 Practice :
-http://www.spoj.com/problems/SPCO/
-http://codeforces.com/problemset/problem/114/B
-http://www.spoj.com/problems/CLEANRBT/
+- http://www.spoj.com/problems/SPCO/
+- http://codeforces.com/problemset/problem/114/B
+- http://www.spoj.com/problems/CLEANRBT/
 More will be added later
 Read this for further knowledge
 
@@ -123,34 +122,28 @@ sample implementation :
 
 int l = 0, r = 10000,  key_val = SOME_VALUE, m;
 
-while (r - l > 1)
-
-{
+while (r - l > 1){
 
 m = (l+r) >> 1;
-
 int val = some_non_decreasing_function(m);
-
 if(val < key_val) l = m;
-
 else r = m;
-
 }
 
 if  (some_non_decreasing_function(l) == key_val ) return l;
-
 else return r;
 
 // this can be modified in a variety of ways, as required in the problem
 
 Practice Problems:
 
-http://www.spoj.com/problems/AGGRCOW/
-http://codeforces.com/problemset/problem/431/D [[Learn’t something new ?]]
-http://www.spoj.com/problems/PIE/
-http://www.spoj.com/problems/TETRA/
-http://www.spoj.com/problems/KOPC12A/
-The Beauty of Standard Template Library of C++
+- http://www.spoj.com/problems/AGGRCOW/
+- http://codeforces.com/problemset/problem/431/D [[Learn’t something new ?]]
+- http://www.spoj.com/problems/PIE/
+- http://www.spoj.com/problems/TETRA/
+- http://www.spoj.com/problems/KOPC12A/
+
+### The Beauty of Standard Template Library of C++
 
 Vectors in one dimension and two dimension
 
@@ -170,32 +163,33 @@ Set
 http://www.spoj.com/problems/FACEFRND/ [[First try without using set ]]
 What if I tell you that apart from scanning the input this problem can be done in 2 lines ? Interesting ? Think!
 Map
-http://www.codechef.com/MARCH13/problems/TOTR/
-http://codeforces.com/gym/100247/problem/C
-http://www.spoj.com/problems/SETSTACK/ [[map, set, set_intersection / union]]
+- http://www.codechef.com/MARCH13/problems/TOTR/
+- http://codeforces.com/gym/100247/problem/C
+- http://www.spoj.com/problems/SETSTACK/ [[map, set, set_intersection / union]]
 SomePractice Problems Before you proceed further
 
-http://www.spoj.com/problems/DCEPC11B/
-http://www.spoj.com/problems/AGGRCOW/
-http://www.codechef.com/problems/CHEFBM
-http://www.codechef.com/JUNE13/problems/PERMUTE
-http://www.spoj.com/problems/KOPC12A/ (recommended)
-http://www.codechef.com/MAY13/problems/WITMATH/ (recommended)
-http://codeforces.com/problemset/problem/431/D (recommended)
-http://www.spoj.com/problems/SPCO/
-http://www.spoj.com/problems/FIBOSUM/
-http://www.spoj.com/problems/POWPOW/ (recommended)
-http://www.codechef.com/AUG13/problems/CNTSOLS/
-http://www.spoj.com/problems/IOPC_14F/
-http://www.spoj.com/problems/NDIVPHI/ (recommended)
-http://www.spoj.com/problems/AU12/ (easy)
-http://www.spoj.com/problems/ETF/ (easy)
-http://codeforces.com/problemset/problem/114/B (easy)
-http://www.spoj.com/problems/HISTOGRA/ [[Hint : use stacks]]
-http://www.spoj.com/problems/HOMO/
-http://www.spoj.com/problems/NGM2/
-http://www.spoj.com/problems/RENT/ [[ recommended ]]
-GRAPHS
+- http://www.spoj.com/problems/DCEPC11B/
+- http://www.spoj.com/problems/AGGRCOW/
+- http://www.codechef.com/problems/CHEFBM
+- http://www.codechef.com/JUNE13/problems/PERMUTE
+- http://www.spoj.com/problems/KOPC12A/ (recommended)
+- http://www.codechef.com/MAY13/problems/WITMATH/ (recommended)
+- http://codeforces.com/problemset/problem/431/D (recommended)
+- http://www.spoj.com/problems/SPCO/
+- http://www.spoj.com/problems/FIBOSUM/
+- http://www.spoj.com/problems/POWPOW/ (recommended)
+- http://www.codechef.com/AUG13/problems/CNTSOLS/
+- http://www.spoj.com/problems/IOPC_14F/
+- http://www.spoj.com/problems/NDIVPHI/ (recommended)
+- http://www.spoj.com/problems/AU12/ (easy)
+- http://www.spoj.com/problems/ETF/ (easy)
+- http://codeforces.com/problemset/problem/114/B (easy)
+- http://www.spoj.com/problems/HISTOGRA/ [[Hint : use stacks]]
+- http://www.spoj.com/problems/HOMO/
+- http://www.spoj.com/problems/NGM2/
+- http://www.spoj.com/problems/RENT/ [[ recommended ]]
+
+### GRAPHS
 
 Try the following problems :
 Prime Path
