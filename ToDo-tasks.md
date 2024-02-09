@@ -1,7 +1,7 @@
 
 - Solve it 
-    - https://www.spoj.com/problems/GAMES/
-    - https://www.codechef.com/problems/ANUUND
+    - https://www.spoj.com/problems/GAMES/ (done) [link](https://www.ideone.com/ZDjcMA)
+    - https://www.codechef.com/problems/ANUUND (done) [link](https://paste.ubuntu.com/p/5Dh8wCDKVr/)
 # Task started from here
 Tasks from [link](https://blog.shahjalalshohag.com/topic-list/?fbclid=IwAR0oShLpT5SMYR6DKRA27ua_gWOziRR4LXmjEuIK1cmxUpfvo7XHxm6h46Q)
 After complete the below all problems and topics them start with [task 2](https://github.com/the-hyp0cr1t3/CC)
