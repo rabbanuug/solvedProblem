@@ -59,7 +59,8 @@ Go through these tutorials (The listed problems might be tough but do read the t
 - http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=primalityTesting
 - http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=combinatorics
 - http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=math_for_topcoders
-- http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=primeNumbers
+- http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=primeNumbers
+- https://community.topcoder.com/tc?module=Static&d1=tutorials&d2=primeNumbers
 
 ### Basic Number Theory  
 
