@@ -39,19 +39,21 @@ Try to do all the problems stated below if you are a beginner.
 - http://www.spoj.com/problems/AFS/
 - http://www.codechef.com/MAY13/problems/WITMATH/
 - http://www.spoj.com/problems/CUBEFR/
+
 Try as many as you can.
 
 Other things that you can read meanwhile
-Euler Totient function and Euler's theorem [[ READ ]]
-Modulo function and its properties
-Miller-Rabin Algorithm[[ READ ]]
-Extended Euclid's Algorithm[[ READ ]]
-Keep exploring STL
-Prove running time of HCF is O(log n)
-Try sorting of structures
-Practice few problems on several Online Judges
-Try to do + - * operations on large numbers(<1000 digits) using char array (for learning implementation)
-Number of factors and sum of factors in sqrt(n) time ,Number of primes till N
+- Euler Totient function and Euler's theorem [[ READ ]]
+- Modulo function and its properties
+- Miller-Rabin Algorithm[[ READ ]]
+- Extended Euclid's Algorithm[[ READ ]]
+- Keep exploring STL
+- Prove running time of HCF is O(log n)
+- Try sorting of structures
+- Practice few problems on several Online Judges
+- Try to do + - * operations on large numbers(<1000 digits) using char array (for learning implementation)
+- Number of factors and sum of factors in sqrt(n) time ,Number of primes till N
+
 Go through these tutorials (The listed problems might be tough but do read the tutorial)
 
 - http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=primalityTesting
