@@ -17,9 +17,9 @@ Try to do all the problems stated below if you are a beginner.
 - PRIMES
 - Prime Check ( O(log n) also possible read about miller-rabbin )
 - Factorization
-- Number of factors
-- Sum of factors
-- Generating Primes using sieve of eratosthenes
+- Number of factors (done)
+- Sum of factors (done)
+- Generating Primes using sieve of eratosthenes (done)
 - Bounds on number of primes till N
 - Euler’s totient function
 
